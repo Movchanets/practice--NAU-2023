@@ -99,7 +99,7 @@ namespace practice
                     Console.WriteLine("Невірний ріст студента. Будь ласка, введіть реальне число.");
                 }
 
-            } while (validHeight);
+            } while (!validHeight);
             bool validWeight = false;
             double weight = 0;
             do
@@ -116,7 +116,7 @@ namespace practice
                 }
                 
 
-            } while (validWeight);
+            } while (!validWeight);
 
             Console.Write("Вага студента (в кг): ");
         
@@ -155,7 +155,7 @@ namespace practice
             for (int i = 0; i < studentList.Length; i++)
             {
                 Student student = studentList[i];
-                Console.WriteLine($"{i,-91}{student.Name,-15} {student.Height,-8} {student.Weight}");
+                Console.WriteLine($"{i}||\t{student.Name}\t ||\t {student.Height}\t ||\t {student.Weight}");
             }
 
             Console.WriteLine("--------------------------------------");
