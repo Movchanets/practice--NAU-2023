@@ -1,0 +1,20 @@
+E:\practice  NAU 2023\practice\practice\bin\Debug\practice.exe
+E:\practice  NAU 2023\practice\practice\bin\Debug\practice.pdb
+E:\practice  NAU 2023\practice\practice\bin\Debug\ClassLibrary.dll
+E:\practice  NAU 2023\practice\practice\bin\Debug\ClassLibrary.pdb
+E:\practice  NAU 2023\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+E:\practice  NAU 2023\practice\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+E:\practice  NAU 2023\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+E:\practice  NAU 2023\practice\practice\obj\Debug\practice.csproj.CopyComplete
+E:\practice  NAU 2023\practice\practice\obj\Debug\practice.exe
+E:\practice  NAU 2023\practice\practice\obj\Debug\practice.pdb
+E:\practice  NAU 2023\practice c#\practice\bin\Debug\practice.exe
+E:\practice  NAU 2023\practice c#\practice\bin\Debug\practice.pdb
+E:\practice  NAU 2023\practice c#\practice\bin\Debug\ClassLibrary.dll
+E:\practice  NAU 2023\practice c#\practice\bin\Debug\ClassLibrary.pdb
+E:\practice  NAU 2023\practice c#\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+E:\practice  NAU 2023\practice c#\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+E:\practice  NAU 2023\practice c#\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+E:\practice  NAU 2023\practice c#\practice\obj\Debug\practice.csproj.CopyComplete
+E:\practice  NAU 2023\practice c#\practice\obj\Debug\practice.exe
+E:\practice  NAU 2023\practice c#\practice\obj\Debug\practice.pdb

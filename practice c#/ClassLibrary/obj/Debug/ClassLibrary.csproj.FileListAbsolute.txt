@@ -1,0 +1,12 @@
+E:\practice  NAU 2023\practice\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\practice  NAU 2023\practice\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\practice  NAU 2023\practice\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+E:\practice  NAU 2023\practice\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\practice  NAU 2023\practice\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\practice  NAU 2023\practice\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\practice  NAU 2023\practice c#\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\practice  NAU 2023\practice c#\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\practice  NAU 2023\practice c#\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+E:\practice  NAU 2023\practice c#\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\practice  NAU 2023\practice c#\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\practice  NAU 2023\practice c#\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice", "practice\practice.csproj", "{64C50542-C689-49BF-A861-2FA1AC82E582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{6648531F-1AE8-48E7-B7E3-FBBD98297C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C50542-C689-49BF-A861-2FA1AC82E582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C50542-C689-49BF-A861-2FA1AC82E582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C50542-C689-49BF-A861-2FA1AC82E582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C50542-C689-49BF-A861-2FA1AC82E582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6648531F-1AE8-48E7-B7E3-FBBD98297C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6648531F-1AE8-48E7-B7E3-FBBD98297C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6648531F-1AE8-48E7-B7E3-FBBD98297C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6648531F-1AE8-48E7-B7E3-FBBD98297C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
