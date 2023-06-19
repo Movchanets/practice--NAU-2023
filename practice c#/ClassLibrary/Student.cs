@@ -35,7 +35,6 @@ namespace ClassLibrary
         public Names Name { get; set; }
         public int Height { get; set; }
         public double Weight { get; set; }
-
         public Student()
         {
         
@@ -46,12 +45,10 @@ namespace ClassLibrary
             Height = height;
             Weight = weight;
         }
-
         public override string ToString()
         {
             return $"{Name} , {Height} cm ,{Weight} kg";
         }
-
         public int CompareTo(Student other)
         {
             if (other == null)

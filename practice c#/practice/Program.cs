@@ -149,13 +149,13 @@ namespace practice
         {
             Console.WriteLine("Список студентів:");
             Console.WriteLine("--------------------------------------");
-            Console.WriteLine("Індекс    Ім'я           Ріст     Вага");
+            Console.WriteLine($"{"Індекс",-10}{"Ім'я",-10}{"Ріст",-10}{"Вага",-10} ");
             Console.WriteLine("--------------------------------------");
 
             for (int i = 0; i < studentList.Length; i++)
             {
                 Student student = studentList[i];
-                Console.WriteLine($"{i}||\t{student.Name}\t ||\t {student.Height}\t ||\t {student.Weight}");
+                Console.WriteLine($"{i,-10}{student.Name,-10}{student.Height,-10}{student.Weight,-10}");
             }
 
             Console.WriteLine("--------------------------------------");
@@ -167,12 +167,12 @@ namespace practice
 
             Console.WriteLine("Студенти з ідеальною вагою (ріст - вага = 110):");
             Console.WriteLine("----------------------------");
-            Console.WriteLine("Ім'я              Ріст     Вага");
+            Console.WriteLine($"{"Ім'я",-10}{"Ріст",-10}{"Вага",-10} ");
             Console.WriteLine("----------------------------");
 
             foreach (Student student in students)
             {
-                Console.WriteLine($"{student.Name,-15} {student.Height,-8} {student.Weight}");
+                Console.WriteLine($"{student.Name,-10}{student.Height,-10}{student.Weight,-10}");
             }
 
             Console.WriteLine("----------------------------");

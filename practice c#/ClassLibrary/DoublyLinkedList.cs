@@ -8,7 +8,6 @@ namespace ClassLibrary
     private ListNode head; // Посилання на перший елемент списку
     private ListNode end; // Посилання на останній елемент списку
     private int length; // Кількість елементів у списку
-    
     // Метод додавання елемента в кінець списку
     public void AddToEnd(Student value)
     {
@@ -28,7 +27,6 @@ namespace ClassLibrary
         
         length++;
     }
-
     // Метод видалення елемента з n-ої позиції списку
     public void RemoveAt(int position)
     {
@@ -86,8 +84,6 @@ namespace ClassLibrary
 
         length--;
     }
-
-
     // Індексатор для читання та зміни значення вузла за порядковим номером
     public Student this[int index]
     {
@@ -154,8 +150,6 @@ namespace ClassLibrary
             }
         }
     }
-
-
     // Властивість для отримання довжини списку
     public int Length
     {

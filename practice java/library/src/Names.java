@@ -1,5 +1,3 @@
-package Classes;
-
 public enum Names {
     Max,
     Slavik,

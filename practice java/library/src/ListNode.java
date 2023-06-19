@@ -1,5 +1,3 @@
-package Classes;
-
 public class ListNode {
     public Student data;
     public ListNode prev;

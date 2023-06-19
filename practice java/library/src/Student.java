@@ -1,5 +1,3 @@
-package Classes;
-
 public class Student implements Comparable<Student> {
     private Names name;
     private int course;
