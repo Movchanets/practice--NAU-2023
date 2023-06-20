@@ -19,7 +19,8 @@ namespace practice
                 Console.WriteLine("2. Видалити студента");
                 Console.WriteLine("3. Вивести список студентів");
                 Console.WriteLine("4. Знайти студентів з ідеальною вагою");
-                Console.WriteLine("5. Вийти");
+                Console.WriteLine("5. Сортування");
+                Console.WriteLine("6. Вийти");
                 Console.WriteLine();
 
                 Console.Write("Введіть номер опції: ");
@@ -41,6 +42,10 @@ namespace practice
                         FindStudentsWithIdealWeight();
                         break;
                     case "5":
+                       studentList.Sort();
+                       PrintStudentList();
+                        break;
+                    case "6":
                         exit = true;
                         break;
                     default:

@@ -13,7 +13,8 @@ public class Main {
             System.out.println("2. Видалити студента");
             System.out.println("3. Вивести список студентів");
             System.out.println("4. Знайти студентів жінок на 2 му курсі");
-            System.out.println("5. Вийти");
+            System.out.println("5. Сортування");
+            System.out.println("6. Вийти");
             System.out.println();
 
             System.out.print("Введіть номер опції: ");
@@ -34,6 +35,10 @@ public class Main {
                     findFemaleStudents();
                     break;
                 case "5":
+                    studentList.sort();
+                    printStudentList();
+                    break;
+                case "6":
                     exit = true;
                     break;
                 default:
